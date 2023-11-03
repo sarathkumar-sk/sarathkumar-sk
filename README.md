@@ -1,16 +1,36 @@
-### Hi there 👋
+Hi 👋 My name is Sarath Kumar S K
+===================================
 
-<!--
-**SKSK052003/SKSK052003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Engineer and ML Enthusiast
+-----------------------------------
 
-Here are some ideas to get you started:
+I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Robotics. My primary interest lies in the field of robotics. Additionally, I am proficient in web development and have knowledge of the Internet of Things (IoT). I possess programming skills in Python, C/C++, and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Chennai
+* ✉️  You can contact me at [sarathkumarsenthilkavitha@gmail.com](mailto:sarathkumarsenthilkavitha@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
+
+### Experience
+
+* RPA Developer Intern - [Tata Consultancy Services](https://www.tcs.com/) (Sep 2023 - Nov 2023)
+* Robotics Programming Team Member - [Atom Robotics](https://atomrobotics.github.io/) (Mar 2023 - Present)
+* CEO Sub Executive - [Cittaa Health Services Private Limited](https://cittaa.in/) (Jun 2022 - Present)
+* Robotics Programming Team Member - [Bionary Club VITC] (Feb 2023 - Present)
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dart,figma,mysql,gcp,firebase,supabase,django,docker,spring,postman,postgres,mongodb,flask,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)](https://linktr.ee/aadhithya.d)
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<p>
+<!-- <a href="http://www.github.com/Aadhithya-D"><img src="https://github-readme-stats.vercel.app/api?username=Aadhithya-D&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aadhithya-D's GitHub stats" /></a> -->
+<a href="http://www.github.com/Aadhithya-D"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Aadhithya-D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-D&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://github.com/SKSK052003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/___sksk__05___/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
