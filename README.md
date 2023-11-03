@@ -34,5 +34,5 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 ### Socials
 
 <p align="left"> <a href="https://github.com/SKSK052003"><img src="https://github.com/SKSK052003/SKSK052003/blob/main/github.png" width="32" height="32" /></a>  
-<a href="https://www.instagram.com/___sksk__05___/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.instagram.com/___sksk__05___/"><img align="left" src="img src="https://github.com/SKSK052003/SKSK052003/blob/main/github.png" alt=”Yu Shi | LinkedIn" width="21px"/></a> 
 <a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
