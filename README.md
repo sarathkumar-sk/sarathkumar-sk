@@ -19,7 +19,7 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,figma,mysql,gcp,firebase,django,spring,postman,mongodb,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)
+[![My Skills](https://skillicons.dev/icons?i= ros,raspberrypi,arduino,vscode,js,html,css,atom,angular,bash,c,cpp,bootstrap,cmake,bots,django,figma,firebase,gcp,git,github,ai,java,linux,matlab,mysql,mongodb,nodejs,php,powershell,postman,py,pytorch,react,r,stackoverflow,tensorflow,visualstudio)](https://skillicons.dev)
 
 ### Badges
 
@@ -33,4 +33,6 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/SKSK052003" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i= github" width="32" height="32" /></a>  <a href="https://www.instagram.com/___sksk__05___/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/SKSK052003" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i= github" width="32" height="32" /></a>  
+<a href="https://www.instagram.com/___sksk__05___/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
