@@ -33,6 +33,6 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/SKSK052003" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i= github" width="32" height="32" /></a>  
+<p align="left"> <a href="https://github.com/SKSK052003" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/github_2504911?term=github&page=1&position=10&origin=search&related_id=2504911" width="32" height="32" /></a>  
 <a href="https://www.instagram.com/___sksk__05___/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
