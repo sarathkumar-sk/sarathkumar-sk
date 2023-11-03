@@ -19,7 +19,7 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,figma,mysql,gcp,firebase,django,spring,postman,mongodb,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)]
+![My Skills](https://skillicons.dev/icons?i=java,figma,mysql,gcp,firebase,django,spring,postman,mongodb,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)
 
 ### Badges
 
