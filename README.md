@@ -19,7 +19,7 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,dart,figma,mysql,gcp,firebase,supabase,django,docker,spring,postman,postgres,mongodb,flask,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)](https://linktr.ee/aadhithya.d)
+[![My Skills](https://skillicons.dev/icons?i=java,figma,mysql,gcp,firebase,django,spring,postman,mongodb,git,github,linux,c,cpp,py,js,pytorch,tensorflow,unity,sqlite,selenium)]
 
 ### Badges
 
