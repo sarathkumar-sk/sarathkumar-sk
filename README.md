@@ -31,8 +31,4 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 <a href="https://github.com/SKSK052003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKSK052003&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://github.com/SKSK052003"><img src="https://github.com/SKSK052003/SKSK052003/blob/main/github.png" width="32" height="32" /></a>  
-<a href="https://www.instagram.com/___sksk__05___/"><img align="left" src="img src="https://github.com/SKSK052003/SKSK052003/blob/main/github.png" alt=”Yu Shi | LinkedIn" width="21px"/></a> 
-<a href="https://www.linkedin.com/in/sarath-kumar-sk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
