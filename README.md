@@ -15,7 +15,7 @@ I am a third-year student at VIT Chennai campus pursuing a Bachelor of Technolog
 * RPA Developer Intern - [Tata Consultancy Services](https://www.tcs.com/) (Sep 2023 - Nov 2023)
 * Robotics Programming Team Member - [Atom Robotics](https://atomrobotics.github.io/) (Mar 2023 - Present)
 * CEO Sub Executive - [Cittaa Health Services Private Limited](https://cittaa.in/) (Jun 2022 - Present)
-* Robotics Programming Team Member - [Bionary Club VITC] (Feb 2023 - Present)
+* Robotics Programming Team Member - Bionary Club VITC (Feb 2023 - Present)
 
 ### Skills
 
