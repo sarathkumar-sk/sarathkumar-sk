@@ -11,6 +11,7 @@ Engineer specialising in robotics, automation, IoT and artificial intelligence, 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Experience
+* Robotics Engineer Intern - [Vellore Institute of Technology](https://chennai.vit.ac.in/). (Jan 2025 - Aug 2025)
 * Robot Programming Intern - [Mafkin Robotics](https://www.mafkinrobotics.com/) (June 2023 - Aug 2023)
 * RPA Developer Intern - [Tata Consultancy Services](https://www.tcs.com/) (Sep 2023 - Nov 2023)
 * Robotics Programming Team Member - [Atom Robotics](https://atomrobotics.github.io/) (Mar 2023 - April 2024)
