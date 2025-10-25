@@ -4,7 +4,7 @@ Hi 👋 My name is Sarath Kumar S K
 Robotics Engineer and ML Enthusiast
 -----------------------------------
 
-I am a final-year student at VIT Chennai campus pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Robotics. My primary interest lies in the field of robotics. Additionally, I am proficient in web development and have knowledge of the Internet of Things (IoT). I possess programming skills in Python, C/C++, and Java.
+Engineer specialising in robotics, automation, IoT and artificial intelligence, with advanced programming expertise in Python, C++, and ROS. Demonstrated success in developing and optimising robotic systems and integrating AI solutions and contributing to innovative automation projects.. Committed to leveraging technical knowledge to enhance efficiency and precision in innovative automation projects within a professional robotics engineering role.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [sarathkumarsenthilkavitha@gmail.com](mailto:sarathkumarsenthilkavitha@gmail.com)
