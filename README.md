@@ -6,7 +6,7 @@ Robotics Engineer and ML Enthusiast
 
 Engineer specialising in robotics, automation, IoT and artificial intelligence, with advanced programming expertise in Python, C++, and ROS. Demonstrated success in developing and optimising robotic systems and integrating AI solutions and contributing to innovative automation projects.. Committed to leveraging technical knowledge to enhance efficiency and precision in innovative automation projects within a professional robotics engineering role.
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in Manchester, UK.
 * ✉️  You can contact me at [sarathkumarsenthilkavitha@gmail.com](mailto:sarathkumarsenthilkavitha@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -24,7 +24,6 @@ Engineer specialising in robotics, automation, IoT and artificial intelligence, 
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <p>
 <a href="https://github.com/sarathkumar-sk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarathkumar-sk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
